@@ -11,8 +11,10 @@
     "magento/module-catalog-analytics": "*",
     "magento/module-customer-analytics": "*",
     "magento/module-customer-import-export": "*",
+    "magento/module-cybersource": "*",
     "magento/module-dhl": "*",
     "magento/module-downloadable-import-export": "*",
+    "magento/module-eway": "*",
     "magento/module-fedex": "*",
     "magento/module-google-adwords": "*",
     "magento/module-google-optimizer": "*",
@@ -39,6 +41,7 @@
     "magento/module-ups": "*",
     "magento/module-usps": "*",
     "magento/module-version": "*",
-    "magento/module-wishlist-analytics": "*"
+    "magento/module-wishlist-analytics": "*",
+    "magento/module-worldpay": "*"
   }
 }
