@@ -6,7 +6,6 @@
     "magento/module-amqp": "*",
     "magento/module-analytics": "*",
     "magento/module-authorizenet": "*",
-    "magento/module-braintree": "*",
     "magento/module-bundle-import-export": "*",
     "magento/module-catalog-analytics": "*",
     "magento/module-customer-analytics": "*",
