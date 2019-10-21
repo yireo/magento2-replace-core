@@ -11,6 +11,8 @@
     "magento/module-authorizenet-acceptjs": "*",
     "magento/module-authorizenet-cardinal": "*",
     "magento/module-authorizenet-graph-ql": "*",
+    "magento/module-braintree": "*",
+    "magento/module-braintree-graph-ql": "*",
     "magento/module-bundle-import-export": "*",
     "magento/module-catalog-analytics": "*",
     "magento/module-cardinal-commerce": "*",
