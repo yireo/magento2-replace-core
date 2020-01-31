@@ -1,7 +1,17 @@
 {
   "name": "yireo/magento2-replace-core",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "replace": {
+    "magento/module-adobe-ims": "*",
+    "magento/module-adobe-ims-api": "*",
+    "magento/module-adobe-stock-admin-ui": "*",
+    "magento/module-adobe-stock-asset": "*",
+    "magento/module-adobe-stock-asset-api": "*",
+    "magento/module-adobe-stock-client": "*",
+    "magento/module-adobe-stock-client-api": "*",
+    "magento/module-adobe-stock-image": "*", 
+    "magento/module-adobe-stock-image-admin-ui": "*",
+    "magento/module-adobe-stock-image-api": "*"
     "magento/google-shopping-ads": "*",
     "magento/module-advanced-pricing-import-export": "*",
     "magento/module-amqp": "*",
