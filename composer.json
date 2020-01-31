@@ -11,7 +11,7 @@
     "magento/module-adobe-stock-client-api": "*",
     "magento/module-adobe-stock-image": "*", 
     "magento/module-adobe-stock-image-admin-ui": "*",
-    "magento/module-adobe-stock-image-api": "*"
+    "magento/module-adobe-stock-image-api": "*",
     "magento/google-shopping-ads": "*",
     "magento/module-advanced-pricing-import-export": "*",
     "magento/module-amqp": "*",
