@@ -31,7 +31,6 @@
     "magento/module-multishipping": "*",
     "magento/module-mysql-mq": "*",
     "magento/module-new-relic-reporting": "*",
-    "magento/module-persistent": "*",
     "magento/module-quote-analytics": "*",
     "magento/module-review-analytics": "*",
     "magento/module-sales-analytics": "*",
