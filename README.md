@@ -9,6 +9,11 @@ _Replace `*` with your magento version_
 
 This package support Magento 2.3 or higher.
 
+## Specific notes for Magento 2.3.4
+The following packages have been removed from replacement, due to pending bugs in Magento:
+
+- `magento/module-message-queue`
+
 ## Notes
 
 See also the package [`yireo/magento2-replace-all`.](https://github.com/yireo/magento2-replace-all)
