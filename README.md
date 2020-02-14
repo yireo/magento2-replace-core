@@ -12,7 +12,8 @@ This package support Magento 2.3 or higher.
 ## Specific notes for Magento 2.3.4
 The following packages have been removed from replacement, due to pending bugs in Magento:
 
-- `magento/module-message-queue`
+- `magento/module-message-queue` (removing this leads to AJAX errors in the checkout)
+- `magento/module-persisent` (see https://github.com/magento/magento2/issues/21614)
 
 ## Notes
 
