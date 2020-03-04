@@ -3,11 +3,7 @@ This repository contains a composer meta-package that removes optional core modu
 
     composer require yireo/magento2-replace-core:2.3.4
 
-_Replace `*` with your magento version_
-
-## Requiments
-
-This package support Magento 2.3 or higher.
+This package and version support Magento 2.3.4.
 
 ## Specific notes for Magento 2.3.4
 The following packages have been removed from replacement, due to pending bugs in Magento:
