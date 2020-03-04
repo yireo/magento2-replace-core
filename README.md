@@ -3,10 +3,7 @@ This repository contains a composer meta-package that removes optional core modu
 
     composer require yireo/magento2-replace-core:2.3.3
 
-_Replace `*` with your magento version_
-
-## Requirements
-This package support Magento 2.3.3.
+This package and version support Magento 2.3.3.
 
 ## Special notes on Magento 2.3.3
 The Swatches modules have been removed from replacement, due to JS issues in the checkout:
