@@ -15,6 +15,14 @@ The following packages have been removed from replacement, due to pending bugs i
 - `magento/module-message-queue` (removing this leads to AJAX errors in the checkout)
 - `magento/module-persisent` (see https://github.com/magento/magento2/issues/21614)
 
+The Swatches modules have been removed from replacement, due to JS issues in the checkout:
+
+- `magento/module-swatches`
+- `magento/module-swatches-layered-navigation`
+- `magento/module-swatches-graph-ql`
+
+You could try to replace these packages with nothing in your custom project though.
+
 ## Notes
 
 See also the package [`yireo/magento2-replace-all`.](https://github.com/yireo/magento2-replace-all)
