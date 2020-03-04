@@ -1,13 +1,21 @@
 # Magento 2 removal of all optional core modules
 This repository contains a composer meta-package that removes optional core modules. To install, use the following:
 
-    composer require yireo/magento2-replace-core:2.3.*
+    composer require yireo/magento2-replace-core:2.3.3
 
 _Replace `*` with your magento version_
 
-## Requiments
+## Requirements
+This package support Magento 2.3.3.
 
-This package support Magento 2.3 or higher.
+## Special notes on Magento 2.3.3
+The Swatches modules have been removed from replacement, due to JS issues in the checkout:
+
+- `magento/module-swatches`
+- `magento/module-swatches-layered-navigation`
+- `magento/module-swatches-graph-ql`
+
+You could try to replace these packages with nothing in your custom project though.
 
 ## Notes
 
