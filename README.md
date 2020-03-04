@@ -1,7 +1,7 @@
 # Magento 2 removal of all optional core modules
 This repository contains a composer meta-package that removes optional core modules. To install, use the following:
 
-    composer require yireo/magento2-replace-core:2.3.*
+    composer require yireo/magento2-replace-core:2.3.4
 
 _Replace `*` with your magento version_
 
