@@ -29,6 +29,7 @@
     "magento/module-bundle-import-export": "*",
     "magento/module-catalog-analytics": "*",
     "magento/module-cardinal-commerce": "*",
+    "magento/module-configurable-import-export": "*",
     "magento/module-customer-analytics": "*",
     "magento/module-customer-import-export": "*",
     "magento/module-cybersource": "*",
