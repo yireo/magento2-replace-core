@@ -1,6 +1,9 @@
 {
   "name": "yireo/magento2-replace-core",
   "version": "2.3.3",
+  "require": {
+    "magento/product-community-edition": "2.3.3"
+  },
   "replace": {
     "magento/google-shopping-ads": "*",
     "magento/module-advanced-pricing-import-export": "*",
