@@ -1,7 +1,11 @@
 {
   "name": "yireo/magento2-replace-core",
   "version": "2.3.4",
+  "require": {
+    "magento/product-community-edition": "2.3.4"
+  },
   "replace": {
+    "astock/stock-api-libphp": "*",
     "magento/adobe-stock-integration": "*",
     "magento/module-adobe-ims": "*",
     "magento/module-adobe-ims-api": "*",
@@ -25,6 +29,7 @@
     "magento/module-bundle-import-export": "*",
     "magento/module-catalog-analytics": "*",
     "magento/module-cardinal-commerce": "*",
+    "magento/module-configurable-import-export": "*",
     "magento/module-customer-analytics": "*",
     "magento/module-customer-import-export": "*",
     "magento/module-cybersource": "*",
@@ -39,7 +44,6 @@
     "magento/module-multishipping": "*",
     "magento/module-mysql-mq": "*",
     "magento/module-new-relic-reporting": "*",
-    "magento/module-persistent": "*",
     "magento/module-quote-analytics": "*",
     "magento/module-review-analytics": "*",
     "magento/module-sales-analytics": "*",
@@ -50,9 +54,6 @@
     "magento/module-swagger": "*",
     "magento/module-swagger-webapi": "*",
     "magento/module-swagger-webapi-async": "*",
-    "magento/module-swatches": "*",
-    "magento/module-swatches-layered-navigation": "*",
-    "magento/module-swatches-graph-ql": "*",
     "magento/module-tax-import-export": "*",
     "magento/module-ups": "*",
     "magento/module-usps": "*",
