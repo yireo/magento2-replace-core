@@ -1,0 +1,12 @@
+name: Tests
+on: [push, pull_request]
+jobs:
+  build:
+    name: yireo/magento2-replace-test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@master
+
+      - name: Check if composer file is valid
+        run: composer validate
