@@ -5,10 +5,13 @@ This repository contains a composer meta-package that removes optional core modu
 
 _Replace `*` with your magento version_
 
-## Requiments
+## Requirements
+Please switch to the Git branch of your relevant Magento installation to see the correct details:
 
-This package support Magento 2.3 or higher.
+- [Magento 2.3.1](https://github.com/yireo/magento2-replace-core/tree/magento-2.3.1)
+- [Magento 2.3.2](https://github.com/yireo/magento2-replace-core/tree/magento-2.3.2)
+- [Magento 2.3.3](https://github.com/yireo/magento2-replace-core/tree/magento-2.3.3)
+- [Magento 2.3.4](https://github.com/yireo/magento2-replace-core/tree/magento-2.3.4)
 
 ## Notes
-
 See also the package [`yireo/magento2-replace-all`.](https://github.com/yireo/magento2-replace-all)
