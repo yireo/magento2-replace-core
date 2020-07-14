@@ -1,5 +1,6 @@
 {
   "name": "yireo/magento2-replace-core",
+  "description": "Remove core packages from Magento",
   "require": {
     "magento/product-community-edition": "2.3.4"
   },
