@@ -1,11 +1,10 @@
 {
   "name": "yireo/magento2-replace-core",
-  "version": "2.3.5",
+  "description": "Replace core packages from Magento",
   "require": {
     "magento/product-community-edition": "^2.3.5"
   },
   "replace": {
-    "yireo/magento2-replace-graphql": "*",
     "astock/stock-api-libphp": "*",
     "magento/adobe-stock-integration": "*",
     "magento/module-adobe-ims": "*",
