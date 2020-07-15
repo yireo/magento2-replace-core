@@ -48,8 +48,6 @@
     "magento/module-review-analytics": "*",
     "magento/module-sales-analytics": "*",
     "magento/module-sample-data": "*",
-    "magento/module-send-friend": "*",
-    "magento/module-send-friend-graph-ql": "*",
     "magento/module-signifyd": "*",
     "magento/module-swagger": "*",
     "magento/module-swagger-webapi": "*",
