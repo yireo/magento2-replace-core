@@ -17,6 +17,10 @@ The Swatches modules have been removed from replacement, due to JS issues in the
 - `magento/module-swatches-layered-navigation`
 - `magento/module-swatches-graph-ql`
 
+The SendFriend module could not be removed because of Dotmailer.
+
+The Multishipping module could not be removed because of Braintree.
+
 You could try to replace these packages with nothing in your custom project though.
 
 ## Notes

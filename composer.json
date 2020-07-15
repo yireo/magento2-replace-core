@@ -41,7 +41,6 @@
     "magento/module-google-optimizer": "*",
     "magento/module-grouped-import-export": "*",
     "magento/module-marketplace": "*",
-    "magento/module-multishipping": "*",
     "magento/module-mysql-mq": "*",
     "magento/module-new-relic-reporting": "*",
     "magento/module-quote-analytics": "*",
