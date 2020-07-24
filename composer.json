@@ -2,7 +2,7 @@
   "name": "yireo/magento2-replace-core",
   "description": "Remove core packages from Magento",
   "require": {
-    "magento/product-community-edition": "2.3.4"
+    "magento/product-community-edition": "~2.3.4"
   },
   "replace": {
     "astock/stock-api-libphp": "*",
@@ -41,15 +41,12 @@
     "magento/module-google-optimizer": "*",
     "magento/module-grouped-import-export": "*",
     "magento/module-marketplace": "*",
-    "magento/module-multishipping": "*",
     "magento/module-mysql-mq": "*",
     "magento/module-new-relic-reporting": "*",
     "magento/module-quote-analytics": "*",
     "magento/module-review-analytics": "*",
     "magento/module-sales-analytics": "*",
     "magento/module-sample-data": "*",
-    "magento/module-send-friend": "*",
-    "magento/module-send-friend-graph-ql": "*",
     "magento/module-signifyd": "*",
     "magento/module-swagger": "*",
     "magento/module-swagger-webapi": "*",
