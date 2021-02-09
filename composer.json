@@ -30,6 +30,7 @@
     "magento/module-catalog-analytics": "*",
     "magento/module-cardinal-commerce": "*",
     "magento/module-customer-analytics": "*",
+    "magento/module-customer-finance": "*",
     "magento/module-customer-import-export": "*",
     "magento/module-cybersource": "*",
     "magento/module-dhl": "*",
