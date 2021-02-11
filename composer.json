@@ -3,7 +3,7 @@
   "description": "Replace core packages from Magento",
   "require": {
     "magento/product-community-edition": ">=2.4.0 <2.4.3",
-    "yireo/magento2-replace-bundled": "*"
+    "yireo/magento2-replace-bundled": "^4.2"
   },
   "replace": {
     "astock/stock-api-libphp": "*",

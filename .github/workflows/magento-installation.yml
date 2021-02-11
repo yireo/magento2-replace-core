@@ -58,7 +58,7 @@ jobs:
       - name: Magento installation
         run: |
             cd /tmp/m2
-            php -d memory_limit=2G bin/magento setup:install --base-url=http://magento2.test/ \
+            php -d memory_limit=-1 bin/magento setup:install --base-url=http://magento2.test/ \
                 --db-host=mysql --db-name=magento2 \
                 --db-user=root --db-password=root \
                 --admin-firstname=John --admin-lastname=Doe \
@@ -71,7 +71,7 @@ jobs:
       - name: Magento compilation
         run: |
             cd /tmp/m2
-            php -d memory_limit=2G bin/magento setup:di:compile
+            php -d memory_limit=-1 bin/magento setup:di:compile
       - name: Additional checks
         run: |
             cd /tmp/m2
