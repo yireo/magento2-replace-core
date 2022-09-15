@@ -67,6 +67,7 @@
     "magento/module-swagger-webapi": "*",
     "magento/module-swagger-webapi-async": "*",
     "magento/module-tax-import-export": "*",
+    "magento/module-two-factor-auth": "*",
     "magento/module-ups": "*",
     "magento/module-usps": "*",
     "magento/module-version": "*",
