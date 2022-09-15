@@ -48,7 +48,6 @@
     "magento/module-google-analytics": "*",
     "magento/module-google-optimizer": "*",
     "magento/module-grouped-import-export": "*",
-    "magento/module-import-export": "*",
     "magento/module-inventory-bundle-import-export": "*",
     "magento/module-inventory-import-export": "*",
     "magento/module-marketplace": "*",
