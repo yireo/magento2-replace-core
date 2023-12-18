@@ -53,7 +53,6 @@
     "magento/module-inventory-import-export": "*",
     "magento/module-marketplace": "*",
     "magento/module-multishipping": "*",
-    "magento/module-new-relic-reporting": "*",
     "magento/module-page-builder-admin-analytics": "*",
     "magento/module-page-builder-analytics": "*",
     "magento/module-quote-analytics": "*",
