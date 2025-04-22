@@ -7,6 +7,7 @@
     "yireo/magento2-replace-bundled": "^4.2"
   },
   "replace": {
+    "adobe-commerce/os-extensions-metapackage": "*",
     "astock/stock-api-libphp": "*",
     "magento/adobe-stock-integration": "*",
     "magento/module-admin-adobe-ims": "*",
