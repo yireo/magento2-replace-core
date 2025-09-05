@@ -36,7 +36,6 @@
     "magento/module-bundle-import-export": "*",
     "magento/module-cardinal-commerce": "*",
     "magento/module-catalog-analytics": "*",
-    "magento/module-catalog-import-export": "*",
     "magento/module-catalog-page-builder-analytics": "*",
     "magento/module-cms-page-builder-analytics": "*",
     "magento/module-configurable-import-export": "*",
